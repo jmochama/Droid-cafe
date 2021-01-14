@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="droid_deserts">Droid Deserts</string>
+    <string name="choose_desert">Choose Desert</string>
+    <string name="donuts_are_glazed_and_sprinkled_with_candy">Donuts are glazed and sprinkled with candy</string>
+    <string name="ice_cream_sandwiches_have_chocolate_and_vanilla_filling">ice cream sandwiches have chocolate and vanilla filling</string>
+    <string name="froyo_is_the_premium_self_serve_frozen_yoghurt">froyo is the premium self serve frozen yoghurt</string>
+
+    <string name="donut_order">You have ordered a donut</string>
+    <string name="ice_cream_order">You have ordered Ice cream sandwich</string>
+    <string name="foroyo_order">You have ordered Froyo</string>
+    <string name="choose_delivery_method">Choose Delivery Method</string>
+    <string name="same_day_messenger_services">Same day messenger servics</string>
+    <string name="next_day_ground_delivery">Next day ground delivery</string>
+    <string name="pick_up">Pick-Up</string>
+    <string name="about_us">about_us</string>
+    <string name="order">order</string>
+    <string name="status">Status</string>
+    <string name="call_us">call us</string>
+    <string name="locate_us">locate us</string>
+    <string name="enter_name_here">enter name here</string>
+    <string name="enter_address_here">enter address here</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="enter_note">Enter note</string>
+    <string name="note">Note</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+</resources>
